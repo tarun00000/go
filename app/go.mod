@@ -1,3 +1,3 @@
-module github.com/tarun00000/go.git
+module app
 
 go 1.19
